@@ -43,7 +43,7 @@ export async function generateMetadata(): Promise<Metadata> {
     metadataBase: getCanonicalAppUrl(),
     title,
     description,
-    applicationName: "NxMart",
+    applicationName: "Client 3",
     icons: { icon: "/Logo.png" },
     appleWebApp: { capable: true, statusBarStyle: "default", title: "NxMart" },
     formatDetection: { telephone: false },
